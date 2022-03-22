@@ -1,0 +1,28 @@
+{"frames": {
+
+"Fly (1).png":
+{
+	"frame": {"x":0,"y":0,"w":443,"h":302},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":443,"h":302},
+	"sourceSize": {"w":443,"h":302}
+},
+"Fly (2).png":
+{
+	"frame": {"x":443,"y":0,"w":443,"h":302},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":443,"h":302},
+	"sourceSize": {"w":443,"h":302}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plane.png",
+	"format": "RGBA8888",
+	"size": {"w":886,"h":302},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a11ae38962ede5ab0336afe0c664a50f:529c9d5bea9a6fc88d928b961b624e7e:e7d815c4455bdad6de6ff1a8b57e9b20$"
+}
+}
