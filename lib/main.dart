@@ -7,10 +7,12 @@ import 'package:flame_texturepacker/flame_texturepacker.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-void main() => runApp(GameWidget(
-      game: MyGame(),
-      initialActiveOverlays: [],
-    ));
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  runApp(GameWidget(
+    game: MyGame(),
+  ));
+}
 
 class MyGame extends FlameGame with TapDetector {
   SpriteComponent background = SpriteComponent();
